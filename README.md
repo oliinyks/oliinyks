@@ -15,3 +15,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5A5A5A?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/svitlana-oliinyk-65ba4223b/)
 
 By the way, I paint on the walls.
+
+![footer](https://github.com/oliinyks/oliinyks/blob/main/assets/black-man-wait-what-meme.jpg)
