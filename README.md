@@ -16,7 +16,7 @@
 
 By the way, I paint on the walls.
 
-[![Photo](https://img.shields.io/badge/-🎨Photo-5A5A5A?style=for-the-badge&)](https://drive.google.com/file/d/1AaCiqvAp7hmrN5ytwrIfiOLp0haY1HB7/view?usp=sharing)
+[![Photo](https://img.shields.io/badge/-🎨Photo-5A5A5A?style=for-the-badge&)](https://drive.google.com/drive/folders/1dC3kXociQi4VQbykso08qBBshpuXmBai?usp=sharing)
 
 
 ![footer](https://github.com/oliinyks/oliinyks/blob/main/assets/black-man-wait-what-meme.jpg)
