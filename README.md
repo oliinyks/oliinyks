@@ -1,7 +1,13 @@
-### Welcome ✨
-I'm Svitlana
 ![Header](https://github.com/oliinyks/oliinyks/blob/main/assets/38b440b64007b4837d222e0607d1476e.jpeg)
-Proficient: HTML, CSS, SASS, JavaScript, React, Node.js.
+### Welcome ✨
+- I'm Svitlana
+### Proficient:
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 
 <!--
 **oliinyks/oliinyks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
