@@ -1,5 +1,6 @@
 ### Welcome ✨
 I'm Svitlana
+![Header](https://github.com/oliinyks/oliinyks/blob/main/assets/38b440b64007b4837d222e0607d1476e.jpeg)
 Proficient: HTML, CSS, SASS, JavaScript, React, Node.js.
 
 <!--
