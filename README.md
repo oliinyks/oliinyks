@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome ✨
+I'm Svitlana
+Proficient: HTML, CSS, SASS, JavaScript, React, Node.js.
 
 <!--
 **oliinyks/oliinyks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
