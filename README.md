@@ -1,7 +1,7 @@
 ![Header](https://github.com/oliinyks/oliinyks/blob/main/assets/38b440b64007b4837d222e0607d1476e.jpeg)
 ### Welcome ✨
  I'm Svitlana. I enjoy learning new things and developing. I like to overcome difficulties and not give up anyway.
-### Proficient 💪
+### Skills 💪
 ![HTML](https://img.shields.io/badge/-HTML-5A5A5A?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-5A5A5A?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-5A5A5A?style=for-the-badge&logo=SASS)
