@@ -13,5 +13,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-5A5A5A?style=for-the-badge&logo=Telegram)](https://t.me/svitlana_ol2)
 [![Facebook](https://img.shields.io/badge/-Facebook-5A5A5A?style=for-the-badge&logo=Facebook)](https://www.facebook.com/svitlana.olijnyk/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5A5A5A?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/svitlana-oliinyk-65ba4223b/)
-
-![footer](https://github.com/oliinyks/oliinyks/blob/main/assets/black-man-wait-what-meme.jpg)
