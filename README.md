@@ -14,9 +14,4 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-5A5A5A?style=for-the-badge&logo=Facebook)](https://www.facebook.com/svitlana.olijnyk/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5A5A5A?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/svitlana-oliinyk-65ba4223b/)
 
-By the way, I paint on the walls.
-
-[![Photo](https://img.shields.io/badge/-🎨Photo-5A5A5A?style=for-the-badge&)](https://drive.google.com/drive/folders/1dC3kXociQi4VQbykso08qBBshpuXmBai?usp=sharing)
-
-
 ![footer](https://github.com/oliinyks/oliinyks/blob/main/assets/black-man-wait-what-meme.jpg)
